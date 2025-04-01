@@ -4,7 +4,7 @@ import logoCompass from '../assets/compass_uol_logo.jpg';
 import fotoPerfil from '../assets/foto-perfil.png';
 import frontDev from '../assets/fullstack.svg';
 import java from '../assets/icons/Java-Dark.svg';
-import javascript from '../assets/icons/javascript.svg';
+import javascript from '../assets/icons/JavaScript.svg';
 import mongo from '../assets/icons/MongoDB.svg';
 import mysSql from '../assets/icons/MySQL-Dark.svg';
 import nest from '../assets/icons/NestJS-Dark.svg';
